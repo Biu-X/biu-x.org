@@ -1,0 +1,22 @@
+name: Update DNS
+
+on:
+  push:
+    branches: [ main ]
+    
+
+jobs:
+  depoly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 5
+        
+      - name: Run a multi-line script
+        run: |
+          export CF_API_EMAIL=${{ secrets.CF_API_EMAIL }}
+          export CF_API_KEY=${{ secrets.CF_API_KEY }}
+          bash install-flarectl.sh
+          bash depoly.sh
