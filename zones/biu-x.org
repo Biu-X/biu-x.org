@@ -1,1 +1,2 @@
 #NAME, TYPE, CONTENT
+hiifong,CNAME,cname.vercel-dns.com
