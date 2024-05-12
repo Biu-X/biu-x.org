@@ -1,4 +1,0 @@
-vcbc.biu-x.org,ns,ns51.cloudns.net
-vcbc.biu-x.org,ns,ns52.cloudns.net
-vcbc.biu-x.org,ns,ns53.cloudns.net
-vcbc.biu-x.org,ns,ns54.cloudns.net
