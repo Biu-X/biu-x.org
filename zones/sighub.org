@@ -1,1 +1,5 @@
 #NAME, TYPE, CONTENT
+vcbc.biu-x.org,NS,ns51.cloudns.net
+vcbc.biu-x.org,NS,ns52.cloudns.net
+vcbc.biu-x.org,NS,ns53.cloudns.net
+vcbc.biu-x.org,NS,ns54.cloudns.net
