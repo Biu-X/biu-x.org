@@ -1,6 +1,6 @@
 #NAME, TYPE, CONTENT
 hiifong,CNAME,cname.vercel-dns.com
-vcbc,ns,ns51.cloudns.net
-vcbc,ns,ns52.cloudns.net
-vcbc,ns,ns53.cloudns.net
-vcbc,ns,ns54.cloudns.net
+vcbc,NS,ns51.cloudns.net
+vcbc,NS,ns52.cloudns.net
+vcbc,NS,ns53.cloudns.net
+vcbc,NS,ns54.cloudns.net
