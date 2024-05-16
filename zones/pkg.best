@@ -1,1 +1,5 @@
 #NAME, TYPE, CONTENT
+a,NS,ns1.cloudns.net
+a,NS,ns2.cloudns.net
+a,NS,ns3.cloudns.net
+a,NS,ns4.cloudns.net
