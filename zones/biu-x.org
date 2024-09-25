@@ -1,6 +1,2 @@
 #NAME, TYPE, CONTENT
-hiifong,CNAME,cname.vercel-dns.com
-vcbc,NS,ns51.cloudns.net
-vcbc,NS,ns52.cloudns.net
-vcbc,NS,ns53.cloudns.net
-vcbc,NS,ns54.cloudns.net
+trustapps,CNAME,bitskerg.github.io
