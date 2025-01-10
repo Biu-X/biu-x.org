@@ -14,12 +14,3 @@
 感谢 [Vercel](https://vercel.com) 提供优质的主机服务。
 
 感谢 [XuPeiYao](https://github.com/XuPeiYao/cloudflare-dns-update-sample) 提供的脚本。
-
-如果您对本项目感兴趣，可以通过以下方式支持我：
-
-- 关注我的 Github 账号：[@hiifong](https://github.com/hiifong) [![github](https://img.shields.io/github/followers/hiifong.svg?style=social&label=Followers)](https://github.com/hiifong)
-- 扫码打赏
-  - 微信
-    <img src="./WeChat.png" width="200px" height="200px" />
-  - 支付宝
-    <img src="./Alipay.jpg" width="200px" height="200px" />
